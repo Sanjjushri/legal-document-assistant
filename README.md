@@ -1,0 +1,1 @@
+# legal-documentation-assistant
