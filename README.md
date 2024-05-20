@@ -14,3 +14,11 @@ pip install -r requirements.txt
 streamlit run streamlit-app.py
 ```
 
+### Benchmarking Bert and spaCy
+
+```
+jupyter lab
+
+verify:
+http://0.0.0.0:
+```
