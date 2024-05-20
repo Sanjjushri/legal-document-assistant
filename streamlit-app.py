@@ -5,7 +5,7 @@ import re
 
 from transformers import BertTokenizer, BertForSequenceClassification, pipeline
 
-st.title("PDF Text Extractor")
+st.title("Legal Document Summarizer")
 
 # File Upload
 pdf_file = st.file_uploader("Upload a PDF", type=["pdf"])
